@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">OnBoarding</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="are_you_registered">Are you Registered?</string>
+    <string name="add_text">Add your number. We will verify your number so we know you are a member</string>
+    <string name="provide_info">Please provide correct details to get registered in our mobile app</string>
+    <string name="check_box">By "Continuing" you are agreeing to our Terms &amp; Conditions as well as out Privacy Policy</string>
+    <string name="amount_weekly">Ksh 1400 Weekly</string>
+    <string name="group_members">Group Members</string>
+    <string name="contribution_frequency">Contribution Frequency</string>
+    <string name="group_details">Group details</string>
+    <string name="withdrawals">Withdrawals</string>
+    <string name="members">Members</string>
+    <string name="edit_group">Edit Group</string>
+    <string name="my_approvals">My Approvals</string>
+    <string name="loans">Loans</string>
+    <string name="bank_account">Bank Account</string>
+    <string name="paybill_account_balance">Paybill Account Balance</string>
+    <string name="group_balance">Group Balance</string>
+    <string name="_1200_00">1200.00</string>
+    <string name="mpesa">MPESA.</string>
+    <string name="chama_cont">Chama Cont.</string>
+    <string name="_07_02_2021">07/02/2021</string>
+    <string name="amount">Amount</string>
+    <string name="mode">Mode</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="_04_02_2021">04/02/2021</string>
+    <string name="my_upcoming_contributions">My Upcoming Contributions</string>
+    <string name="amount_due_ksh_140_00">Amount Due: Ksh 140.00</string>
+    <string name="penalty_amount">Penalty Amount</string>
+    <string name="ksh_1400">Ksh 1400</string>
+    <string name="pay_now">Pay Now</string>
+</resources>
